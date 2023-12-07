@@ -1,0 +1,9 @@
+Características Principales de la Tarea evaluable: 
+
+Los archivos binarios, XML y de texto proporcionados deberán estar en la Carpeta C del ordenador para que la aplicación funcione. 
+
+En las copias de seguridad de los archivos binarios, al añadir libros nuevos estos eliminaran a los libros antiguos, esto no ocurre en el fichero de texto 
+
+El código esta comentado tanto la clase principal como las clases que lo componen  
+
+A la hora de tener en cuenta la gestión de los préstamos al poner textualmente en el enunciado “Registrar préstamos y devoluciones de libros.” Solo se podrán añadir préstamos y leerlos del fichero de texto  
